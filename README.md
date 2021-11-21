@@ -1,4 +1,3 @@
 # Machine-learning-and-Statistics
-tutorial Practice
 
-
+#playing with python
