@@ -5,7 +5,7 @@ ID : G00387856
 ----------------------------------------------------------------------------------------------------------------------
 
 
-##**Overview of Project**
+##**Overview of Project
 
 The purpose of this assessment to demonstrate a learning of the module and to create sample work to show prospective employers. The overall assessment is split into 3 components: 
 
@@ -30,9 +30,9 @@ The purpose of this assessment to demonstrate a learning of the module and to cr
      - PLots and other visualisations of the above
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-###**Getting started**
+###**Getting started
 
-Download and install Python and Anaconda, all files associated with this project are available at **git@github.com:g00387856/Machine-learning-and-Statistics.git**
+Download and install Python and Anaconda, all files associated with this project are available at **git@github.com:g00387856/Machine-learning-and-Statistics.git
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###**How to download the repository
