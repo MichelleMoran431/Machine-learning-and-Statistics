@@ -43,7 +43,7 @@ Go to the URL for the repository at https://github.com/g00387856/Machine-learnin
 
 Python 3.8.8  was used to develop this project and is needed to run the code in the notebook. Python 3.8.8  can be downloaded from the official Python website at https://www.python.org/downloads/. It can also be downloaded using the Anaconda Python distribution at https://www.anaconda.com/distribution/.
 
-The Jupyter Notebooks Scipy-Learn.ipynb and Scipy-Stats.ipynb can be viewed directly in this GitHub repository in a browser without Python 3 being installed. On occasion the Jupyter Notebook may not render correctly in which case the URL https://github.com/g00387856/Machine-learning-and-Statistics.git can be copied and pasted in to the Jupyter nbviewer at https://nbviewer.jupyter.org or by clicking this link. This will render a static version of the notebook in the browser. If the repository is downloaded it can be run locally by navigating to the folder and entering the command jupyter lab or jupyter notebook on the command line. This will open Jupyter in the browser. The Scipy-Learn.ipynb and Scipy-Stats.ipynb notebooks can be opened then within the Jupyter session. Once opened you can can select Restart and Run All from the Kernel menu.
+The Jupyter Notebooks Scipy-Learn.ipynb and Scipy-Stats.ipynb can be viewed directly in this GitHub repository in a browser without Python 3 being installed. On occasion the Jupyter Notebook may not render correctly in which case the URL https://github.com/g00387856/Machine-learning-and-Statistics/blob/main/Scipy%20Stats/scipy-stats.ipynb and  can be copied and pasted in to the Jupyter nbviewer at https://nbviewer.jupyter.org or by clicking this link. This will render a static version of the notebook in the browser. If the repository is downloaded it can be run locally by navigating to the folder and entering the command jupyter lab or jupyter notebook on the command line. This will open Jupyter in the browser. The Scipy-Learn.ipynb and Scipy-Stats.ipynb notebooks can be opened then within the Jupyter session. Once opened you can can select Restart and Run All from the Kernel menu.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,10 +68,17 @@ Plotly https://plotly.com/python/getting-started/- an interactive, open-source p
 ### **PART 1 Contents of Github Repository**
 
 1.README file
-2.MLSProject.ipynb - Jupyter Notebook containing research, overview of data, models and references
-3.Assessment.pdf - pdf document outlining the project 4 Powerproduction.csv - data used in analysis and running the models
-4.Images - images used in the tasks
-5.Requirements.txt
+2.Requirements.txt
+3.Scipy Stats folder 
+    - images
+    - Diet_R.csv file - dataset used
+    - Scipy-stats.ipynb - notebook 
+4.Scikit learn 
+     - Happiness 2021 2.csv - dataset 
+     - machine learning examples image
+     - sci-kit learn. ipynb notebook
+5 gitignore file
+    
 
 --------------------------------------------------------------
    
